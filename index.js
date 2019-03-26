@@ -1,5 +1,3 @@
 function shout(string){
-  var string = string.toUpperCase();
-  console.log(string);
+  return string.toUpperCase();
 }
-shout("Halelluiah")
