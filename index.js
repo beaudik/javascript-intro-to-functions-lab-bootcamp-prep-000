@@ -13,3 +13,11 @@ function logShout(string){
 function logWhisper(string){
   console.log(string.toLowerCase());
 }
+
+function sayHiToGranma(string){
+  if (string === lowercase){
+    return "i can't hear you"
+  }
+  
+}
+
